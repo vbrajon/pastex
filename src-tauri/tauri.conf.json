@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "pastex",
-    "version": "0.0.0"
+    "version": "1.0.0"
   },
   "tauri": {
     "allowlist": {
@@ -25,7 +25,6 @@
         "all": true
       },
       "window": {
-        "setFocus": true,
         "hide": true,
         "show": true
       }
@@ -47,7 +46,6 @@
     },
     "windows": [
       {
-        "alwaysOnTop": true,
         "contentProtected": true,
         "decorations": false
       }
